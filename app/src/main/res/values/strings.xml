@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SearchBook</string>
+    <string name="tester_text">Tester</string>
+    <string name="input_penulis">Input Penulis</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="search_text">Search</string>
+    <string name="title_text">Title</string>
+    <string name="author_text">Author</string>
+
+</resources>
